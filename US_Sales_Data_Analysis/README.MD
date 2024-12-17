@@ -42,11 +42,6 @@ The project uses a sample dataset containing the following columns:
 
 ---
 
-## Repository Structure
-<repository-root>/ │ README.md -> Overview of the project │ └── us_sales_data_analysis/ -> US Sales Data Analysis project ├── US Sales Data Analysis.xlsx -> Excel workbook with data analysis ├── README.md -> Detailed project documentation
-
-
----
 
 ## How to Contribute
 If you'd like to contribute to this project:
