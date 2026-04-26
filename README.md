@@ -29,7 +29,7 @@ This repository is a collection of end-to-end data analysis projects where I tra
 * **Key Insight:** Correlated 30% of major accidents to specific low-visibility windows, identifying 5 key "Danger Zones."
 * **Tools Used:** 3D Maps, Severity Profiling, and Data Sanitization.
 
-### 3. 🇺🇸 [US Sales Market Intelligence](./us_sales_data_analysis/)
+### 3. [US Sales Market Intelligence](./us_sales_data_analysis/)
 **Focus:** Regional Growth & Market Performance
 * **Objective:** Evaluate sales velocity across four US geographic regions to identify underperforming territories.
 * **Key Insight:** Applied the Pareto Principle (80/20 rule) to isolate the top 20% of SKUs driving 70% of national revenue.
